@@ -1,0 +1,39 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #ff4dff;
+}
+.container {
+  margin: 0 auto;
+  width: 940px;
+}
+.right {
+  float: right;
+  padding-top: 20px;
+  color: #1a001a;
+}
+.left {
+  float: left;
+  padding-top: 20px;
+  color: #1a001a;
+}
+.title {
+  text-align: center;
+  font-size: 40px;
+  color: #4d004d;
+  font-weight: bold;
+  padding-top: 200px;
+}
+.footer__text {
+  text-align: center;
+  color: #1a001a;
+}
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 80px;
+}
